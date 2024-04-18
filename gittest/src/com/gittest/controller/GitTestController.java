@@ -2,9 +2,8 @@ package com.gittest.controller;
 
 public class GitTestController {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public void test() {
+		System.out.println("별찍기");
 	}
 
 }
